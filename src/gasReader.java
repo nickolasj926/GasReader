@@ -1,4 +1,4 @@
-public class gasReader {
+public class GasReader {
     public static void main(String[] args) {
         int milesTillEmpty = 76;
         if (milesTillEmpty < 40) {
